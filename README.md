@@ -5,7 +5,7 @@ Ce travail s'effectue dans [l'environnement Github](https://perso.esiee.fr/~cour
 
 En informatique, les données sont stockées de façon indépendante du programme qui les utilise. Il est donc nécessaire d’accéder à celles ci (depuis le programme) avec une fonction dédiée qui peut se décomposer en trois étapes:
 
-- établir le lien avec la ressource physique qui les contient. Ce peut être un fichier local à la machine sur laquelle s’exécute le programme, ou un fichier distant accessible sur le réseau, une page web, etc. ;
+- établir le lien avec la ressource physique qui les contient. Ce peut être un fichier local à la machine sur laquelle s’exécute le programme, ou un fichier distant accessible tsur le réseau, une page web, etc. ;
 - récupérer les données du fichier ;
 - les retourner au programme appelant.
 
